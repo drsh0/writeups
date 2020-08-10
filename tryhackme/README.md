@@ -1,7 +1,3 @@
----
-tags: tryhackme, writeups, primer
----
-
 [![hackmd-github-sync-badge](https://hackmd.io/UUI_Bm4cSySLAp4ff9ZaSw/badge)](https://hackmd.io/UUI_Bm4cSySLAp4ff9ZaSw)
 
 # TryHackMe
@@ -14,4 +10,5 @@ Paths
 - [Splunk](/7SYZvqHITFO1ZDY9MHTsYg)
 
 
+###### tags: `tryhackme` `writeups` `primer`
 {%hackmd theme-dark %}

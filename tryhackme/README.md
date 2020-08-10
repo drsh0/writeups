@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/UUI_Bm4cSySLAp4ff9ZaSw/badge)](https://hackmd.io/UUI_Bm4cSySLAp4ff9ZaSw)
 {%hackmd theme-dark %}
 
 # TryHackMe - Primer Series

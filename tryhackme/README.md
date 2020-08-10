@@ -1,18 +1,16 @@
 [![hackmd-github-sync-badge](https://hackmd.io/UUI_Bm4cSySLAp4ff9ZaSw/badge)](https://hackmd.io/UUI_Bm4cSySLAp4ff9ZaSw)
-{%hackmd theme-dark %}
 
 # TryHackMe - Primer Series
 
 Red Team
 ---
-- [Book example](/s/book-example)
-- [Slide example](/s/slide-example)
-- [YAML metadata](/s/yaml-metadata)
-- [Features](/s/features)
+- [Ignite](/iZwIFzbPQLi3BNaV4sJDfg)
 
 Blue Team
 ---
-- [Dark theme](/theme-dark?both)
-- [Vertical alignment](/theme-vertical-writing?both)
+- [Volatility](/SpPNUej1Qia4AsBHDGG7QQ)
+- [Splunk](/7SYZvqHITFO1ZDY9MHTsYg)
 
 ###### tags: `tryhackme` `primer` `learning-path` `beginner`
+
+{%hackmd theme-dark %}

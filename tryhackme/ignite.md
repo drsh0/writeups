@@ -49,8 +49,33 @@ A reverse connection is successfully created. We have access as the `www-data` u
 
 ## Privilege Escalation
 
-:::info
-TODO
+Let's first upgrade to a TTY shell. 
+
+`python -c 'import pty; pty.spawn("/bin/bash")'`
+
+There are a lot of options to consider when trying to privesc. In this scenario, it is safe to assume that this CMS system has not been properly set up by the admin/s. The info page on the web server provides some information about a database php config file. It would be interesting to see if we can read that as `www-data`:
+
+`find / -name "*/config/database.php" 2>/dev/null`
+
+It's there and readable by the world!
+
+`cat <snip>/config/database.php`
+
+The above was configured using a root account and the password was available in plain text. 
+
+```bash
+su root -
+# enter the discovered password
+cat root.txt
+# PROFIT!
+```
+
+:::danger
+:skull_and_crossbones: root access obtained
 :::
+
+## TODO
+- [ ] correlate the above to ATT&CK / kill chain analysis
+- [ ] IR and detection POV
 
 {%hackmd theme-dark %}

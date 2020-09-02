@@ -5,17 +5,15 @@ Paths
 ---
 #### Primer Path
 - [Ignite](https://hackmd.io/Tj4tL3PiTRWAOZPbQ6LEOw)
-- [Volatility](/SpPNUej1Qia4AsBHDGG7QQ)
-- [Splunk](/7SYZvqHITFO1ZDY9MHTsYg)
+- [Splunk](https://hackmd.io/7SYZvqHITFO1ZDY9MHTsYg)
 
 #### Web Fundamentals
-- [Authenticate](/dYoluWbSTDOhLYObPLWT8A)
+- [Authenticate](https://hackmd.io/dYoluWbSTDOhLYObPLWT8A)
 
 
 Rooms
 ---
-* [Jack](/qoHBDU8ZSLeIuzQmrTLkrA)
-* 
+* [Jack](https://hackmd.io/qoHBDU8ZSLeIuzQmrTLkrA)
 
 ###### tags: `tryhackme` `writeups`
 {%hackmd theme-dark %}

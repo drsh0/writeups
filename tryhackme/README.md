@@ -9,11 +9,13 @@ Paths
 
 #### Web Fundamentals
 - [Authenticate](https://hackmd.io/dYoluWbSTDOhLYObPLWT8A)
+- [XSS](https://hackmd.io/vd50RtZyRqm6mpYU7LwTXw)
 
 
 Rooms
 ---
 * [Jack](https://hackmd.io/qoHBDU8ZSLeIuzQmrTLkrA)
+* [Post Exploitation](https://hackmd.io/HNwMBls9T6-7LSeRsK6MkQ)
 
 ###### tags: `tryhackme` `writeups`
 {%hackmd theme-dark %}

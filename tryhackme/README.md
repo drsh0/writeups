@@ -1,6 +1,10 @@
 [![hackmd-github-sync-badge](https://hackmd.io/UUI_Bm4cSySLAp4ff9ZaSw/badge)](https://hackmd.io/UUI_Bm4cSySLAp4ff9ZaSw)
 # TryHackMe
 
+KB
+---
+- [Temporary KB](https://hackmd.io/lqsqZopQS7S9iUoPlbxTKg)
+
 Paths
 ---
 #### Primer Path

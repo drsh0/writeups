@@ -1,6 +1,6 @@
 # SAA-C02 Notes
 <details>
-  <summary>TOC</summary>
+  <summary>Table of Contents</summary>
 
 - [SAA-C02 Notes](#saa-c02-notes)
   - [AWS Fundamentals: IAM & EC2](#aws-fundamentals-iam--ec2)
